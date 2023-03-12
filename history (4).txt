@@ -1,0 +1,17 @@
+   0 nano
+   1 chmod +x fullscript.sh
+   2 ./script.sh
+   3 ./fullscript.sh
+   4 nano fullscript.sh
+   5 ./fullscript.sh
+   6 nano fullscript.sh
+   7 ./fullscript.sh
+   8 nano fullscript.sh
+   9 ./fullscript.sh
+  10 nano fullscript.sh
+  11 ./fullscript.sh
+  12 nano fullscript.sh
+  13 ./fullscript.sh
+  14 history > tpm/history.txt
+  15 export_file /tmp/history.txt
+  16 history > /tmp/history.txt
